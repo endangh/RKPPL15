@@ -6,5 +6,6 @@ public class KelasLatihan {
 		System.out.println("Hello World");
 		
 		System.out.println("test");
+		
 	}
 }
